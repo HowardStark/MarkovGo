@@ -230,16 +230,6 @@ affection, should you never hear from me again.
 Your affectionate brother,
   Robert Walton
 
-
-
-Letter 3
-
-
-
-July 7th, 17--
-
-To Mrs. Saville, England
-
 My dear Sister,
 
 I write a few lines in haste to say that I am safe--and well advanced
@@ -272,16 +262,6 @@ determined heart and resolved will of man?
 
 My swelling heart involuntarily pours itself out thus.  But I must
 finish.  Heaven bless my beloved sister!
-
-R.W.
-
-
-
-Letter 4
-
-
-
-August 5th, 17--
 
 To Mrs. Saville, England
 
@@ -421,8 +401,6 @@ I shall continue my journal concerning the stranger at intervals,
 should I have any fresh incidents to record.
 
 
-August 13th, 17--
-
 My affection for my guest increases every day.  He excites at once my
 admiration and my pity to an astonishing degree.  How can I see so
 noble a creature destroyed by misery without feeling the most poignant
@@ -497,8 +475,6 @@ for clearness and precision; add to this a facility of expression and a
 voice whose varied intonations are soul-subduing music.
 
 
-August 19, 17--
-
 Yesterday the stranger said to me, "You may easily perceive, Captain
 Walton, that I have suffered great and unparalleled misfortunes.  I had
 determined at one time that the memory of these evils should die with
@@ -549,9 +525,6 @@ lineaments of his face are irradiated by the soul within.
 Strange and harrowing must be his story, frightful the storm which
 embraced the gallant vessel on its course and wrecked it--thus!
 
-
-
-Chapter 1
 
 I am by birth a Genevese, and my family is one of the most
 distinguished of that republic.  My ancestors had been for many years
@@ -712,9 +685,6 @@ familiarly by the name of cousin.  No word, no expression could body
 forth the kind of relation in which she stood to me--my more than
 sister, since till death she was to be mine only.
 
-
-
-Chapter 2
 
 We were brought up together; there was not quite a year difference in
 our ages.  I need not say that we were strangers to any species of
@@ -920,8 +890,6 @@ Destiny was too potent, and her immutable laws had decreed my utter and
 terrible destruction.
 
 
-
-Chapter 3
 
 When I had attained the age of seventeen my parents resolved that I
 should become a student at the university of Ingolstadt.  I had
@@ -1174,8 +1142,6 @@ Thus ended a day memorable to me; it decided my future destiny.
 
 
 
-Chapter 4
-
 From this day natural philosophy, and particularly chemistry, in the
 most comprehensive sense of the term, became nearly my sole occupation.
 I read with ardour those works, so full of genius and discrimination,
@@ -1407,8 +1373,6 @@ promised myself both of these when my creation should be complete.
 
 
 
-Chapter 5
-
 It was on a dreary night of November that I beheld the accomplishment
 of my toils.  With an anxiety that almost amounted to agony, I
 collected the instruments of life around me, that I might infuse a
@@ -1488,18 +1452,7 @@ I continued walking in this manner for some time, endeavouring by
 bodily exercise to ease the load that weighed upon my mind.  I
 traversed the streets without any clear conception of where I was or
 what I was doing.  My heart palpitated in the sickness of fear, and I
-hurried on with irregular steps, not daring to look about me:
-
-
-  Like one who, on a lonely road,
-  Doth walk in fear and dread,
-  And, having once turned round, walks on,
-  And turns no more his head;
-  Because he knows a frightful fiend
-  Doth close behind him tread.
-
-  [Coleridge's "Ancient Mariner."]
-
+hurried on with irregular steps, not daring to look about me.
 
 Continuing thus, I came at length opposite to the inn at which the
 various diligences and carriages usually stopped.  Here I paused, I
@@ -1641,8 +1594,6 @@ your cousin, I believe."
 
 
 
-Chapter 6
-
 Clerval then put the following letter into my hands.  It was from my
 own Elizabeth:
 
@@ -1771,9 +1722,6 @@ grateful.  Adieu!  my cousin; take care of your self; and, I entreat
 you, write!
 
 "Elizabeth Lavenza.
-
-"Geneva, March 18, 17--."
-
 
 "Dear, dear Elizabeth!" I exclaimed, when I had read her letter:  "I
 will write instantly and relieve them from the anxiety they must feel."
@@ -1904,9 +1852,7 @@ joy and hilarity.
 
 
 
-Chapter 7
-
-On my return, I found the following letter from my father:--
+On my return, I found the following letter from my father:
 
 
 "My dear Victor,
@@ -1980,9 +1926,6 @@ with hatred for your enemies.
                "Your affectionate and afflicted father,
                               "Alphonse Frankenstein.
 
-
-
-"Geneva, May 12th, 17--."
 
 Clerval, who had watched my countenance as I read this letter, was
 surprised to observe the despair that succeeded the joy I at first
@@ -2267,9 +2210,6 @@ hopeless and despairing."  She wept.
 believe, innocent, rely on the justice of our laws, and the activity
 with which I shall prevent the slightest shadow of partiality."
 
-
-
-Chapter 8
 
 We passed a few sad hours until eleven o'clock, when the trial was to
 commence.  My father and the rest of the family being obliged to attend
@@ -2570,8 +2510,6 @@ Justine, the first hapless victims to my unhallowed arts.
 
 
 
-Chapter 9
-
 Nothing is more painful to the human mind than, after the feelings have
 been worked up by a quick succession of events, the dead calmness of
 inaction and certainty which follows and deprives the soul both of hope
@@ -2774,9 +2712,6 @@ acted as a lullaby to my too keen sensations; when I placed my head
 upon my pillow, sleep crept over me; I felt it as it came and blessed
 the giver of oblivion.
 
-
-
-Chapter 10
 
 I spent the following day roaming through the valley.  I stood beside
 the sources of the Arveiron, which take their rise in a glacier, that
@@ -2998,7 +2933,7 @@ his tale.
 
 
 
-Chapter 11
+
 
 "It is with considerable difficulty that I remember the original era of
 my being; all the events of that period appear confused and indistinct.
@@ -3260,7 +3195,7 @@ extinguished their lights and retired, as I conjectured, to rest."
 
 
 
-Chapter 12
+
 
 "I lay on my straw, but I could not sleep.  I thought of the
 occurrences of the day.  What chiefly struck me was the gentle manners
@@ -3466,7 +3401,7 @@ and the future gilded by bright rays of hope and anticipations of joy."
 
 
 
-Chapter 13
+
 
 "I now hasten to the more moving part of my story.  I shall relate
 events that impressed me with feelings which, from what I had been,
@@ -3669,7 +3604,7 @@ an innocent, half-painful self-deceit, to call them)."
 
 
 
-Chapter 14
+
 
 "Some time elapsed before I learned the history of my friends.  It was
 one which could not fail to impress itself deeply on my mind, unfolding
@@ -3851,7 +3786,7 @@ the cottage of her lover."
 
 
 
-Chapter 15
+
 
 "Such was the history of my beloved cottagers.  It impressed me deeply.
 I learned, from the views of social life which it developed, to admire
@@ -4156,7 +4091,7 @@ tumult escaped unperceived to my hovel."
 
 
 
-Chapter 16
+
 
 "Cursed, cursed creator!  Why did I live?  Why, in that instant, did I
 not extinguish the spark of existence which you had so wantonly
@@ -4468,7 +4403,7 @@ and have the same defects.  This being you must create."
 
 
 
-Chapter 17
+
 
 The being finished speaking and fixed his looks upon me in the
 expectation of a reply.  But I was bewildered, perplexed, and unable to
@@ -4651,7 +4586,7 @@ and that thought only had to me the reality of life.
 
 
 
-Chapter 18
+
 
 Day after day, week after week, passed away on my return to Geneva; and
 I could not collect the courage to recommence my work.  I feared the
@@ -4930,7 +4865,7 @@ above all, and the Tower famed in English history.
 
 
 
-Chapter 19
+
 
 London was our present point of rest; we determined to remain several
 months in this wonderful and celebrated city.  Clerval desired the
@@ -5178,7 +5113,7 @@ in my bosom.
 
 
 
-Chapter 20
+
 
 I sat one evening in my laboratory; the sun had set, and the moon was
 just rising from the sea; I had not sufficient light for my employment,
@@ -5509,7 +5444,7 @@ proper detail, to my recollection.
 
 
 
-Chapter 21
+
 
 I was soon introduced into the presence of the magistrate, an old
 benevolent man with calm and mild manners.  He looked upon me, however,
@@ -5860,7 +5795,7 @@ the human mind is by its structure peculiarly susceptible.
 
 
 
-Chapter 22
+
 
 The voyage came to an end.  We landed, and proceeded to Paris.  I soon
 found that I had overtaxed my strength and that I must repose before I
@@ -6196,7 +6131,7 @@ me and cling to me forever.
 
 
 
-Chapter 23
+
 
 It was eight o'clock when we landed; we walked for a short time on the
 shore, enjoying the transitory light, and then retired to the inn and
@@ -6434,7 +6369,7 @@ some other mode of action.
 
 
 
-Chapter 24
+
 
 My present situation was one in which all voluntary thought was
 swallowed up and lost.  I was hurried away by fury; revenge alone
